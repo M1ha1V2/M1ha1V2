@@ -12,9 +12,6 @@
   - Specializat în Anti-Cheat și configurări avansate pentru servere Minecraft.
   - Optimizare performanță și securitate la cel mai înalt nivel.
 
-- **Web Developer** 💻:  
-  - Creez aplicații web moderne folosind PHP, HTML, CSS, JavaScript și Vue.js.
-
 ---
 
 ## 🔧 Tehnologii utilizate
