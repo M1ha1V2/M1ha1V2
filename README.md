@@ -18,9 +18,6 @@
 | Tehnologie   | Nivel             |
 |--------------|-------------------|
 | **Lua**      | 🟨 În proces de învățare |
-| **PHP**      | 🟨 În proces de învățare |
-| **HTML/CSS** | 🟨 În proces de învățare |
-| **JavaScript** | 🟨 În proces de învățare |
 | **Vue.js**   | 🟨 În proces de învățare |
 | **MySQL**    | 🟨 În proces de învățare |
 
