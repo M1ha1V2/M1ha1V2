@@ -21,11 +21,11 @@
 | Tehnologie   | Nivel             |
 |--------------|-------------------|
 | **Lua**      | 🟨 În proces de învățare |
-| **PHP**      | 🟩 Avansat        |
-| **HTML/CSS** | 🟩 Avansat        |
-| **JavaScript** | 🟩 Avansat        |
+| **PHP**      | 🟨 În proces de învățare |
+| **HTML/CSS** | 🟨 În proces de învățare |
+| **JavaScript** | 🟨 În proces de învățare |
 | **Vue.js**   | 🟨 În proces de învățare |
-| **MySQL**    | 🟩 Avansat        |
+| **MySQL**    | 🟨 În proces de învățare |
 
 ---
 
