@@ -24,7 +24,7 @@
 ---
 
 ## 🌐 Cum mă găsești?
-- **Website**: [https://mhahosting.net](https://mhahosting.net)  
+- **Website**: [https://scrify.systems](https://scrify.systems)  
 - **Email**: [contact@m1ha1v2.com](mailto:contact@m1ha1v2.com)  
 - **Discord**: `M1ha1V2`
 
